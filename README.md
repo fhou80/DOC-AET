@@ -1,7 +1,6 @@
 DOC-AET: Improving Named Entity Linking through Anonymous Entity Mentions
 ========
 
-A Python implementation of ACL 2021 submission: \
 Improving Named Entity Linking through Anonymous Entity Mentions.\
 Our code is based on the MulRel model [Le and Titov 2018](https://github.com/lephong/mulrel-nel).
 
